@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />, <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />, <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />, <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />, <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />, CSS/HTML.**
+  🦄 Languages: <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />, <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />, <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />, <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />, <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />, <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />.**
 </p>
 
 <p align="left">
-  💼 Tools: **AdonisJS - Fullstack Development.**
+  💼 Tools: <img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="adonisjs logo" />- **Fullstack Development.**
 </p>
 
 <p align="left">
