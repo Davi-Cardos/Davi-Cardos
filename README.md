@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  My name is Davi Cardoso and I'm a software developer.<br>
+  My name is Davi Cardoso.<br>
   I'm currently a Computer Science student at Universidade Federal Rural do Rio de Janeiro (UFRRJ). With a solid foundation in programming and its well-established tools from university, I am able to quickly learn a new language or tool. Always willing to learn and apply acquired knowledge.
 </p>
 
