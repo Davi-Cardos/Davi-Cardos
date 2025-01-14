@@ -12,7 +12,8 @@
 </p>
 
 <p align="left">
-  💼 Tools: **AdonisJS - Fullstack Development**
+  💼 Tools: AdonisJS - Full Stack Development <br>
+    
 </p>
 
 <p align="left">
